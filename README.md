@@ -1,6 +1,6 @@
 # re_open_chat
 
-这次用了 BLoC 进行状态管理，迁移到了移动端。![旧版仓库](https://github.com/Prixii/open_chat_flutter)
+这次用了 BLoC 进行状态管理，迁移到了移动端。[旧版仓库](https://github.com/Prixii/open_chat_flutter)
 
 主要提升点在于状态管理和轮询模式的升级
 
